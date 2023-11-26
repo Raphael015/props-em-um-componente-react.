@@ -7,7 +7,7 @@ Um aplicativo de contador React simples que utiliza o hook `useState` para geren
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/Raphael015/Programa-react-contador
+    git clone https://github.com/Raphael015/props-em-um-componente-react.
     ```
 
 2. Navegue até o diretório do projeto:
