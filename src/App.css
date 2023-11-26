@@ -1,0 +1,44 @@
+body {
+  display: flex;
+  background-color: rgb(11 14 19);
+  color: rgb(228 228 231);
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #61dafb;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #4fa3d1;
+}
+
+.App-header {
+  background-color: #11161e;
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
